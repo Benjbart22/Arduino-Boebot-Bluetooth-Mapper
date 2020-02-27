@@ -1,0 +1,7 @@
+This project is made for the Arduino Boebot chassis utilizing the following module:
+- 3 HC-SR04 ultrasonic Sensors
+- 1 HC-05 Bluetooth Module
+
+The boebot transmits its x and y positions, its orientation, and the ultrasonic sensor values dependant on its cuurenr orientation
+to an Andriod device with the designated app installed.
+
